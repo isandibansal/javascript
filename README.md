@@ -1,3 +1,3 @@
 #### JavaScript Guide :bowtie:
 
-1. Declarations
+1. Variables
