@@ -4,3 +4,4 @@
 2. Objects
 3. Arrays
 4. Functions
+5. Operators
